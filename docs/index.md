@@ -1,6 +1,6 @@
 # Welcome to SatF
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+yay
 
 ## Commands
 
