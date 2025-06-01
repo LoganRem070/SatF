@@ -1,0 +1,4 @@
+site_name: SatF Docs
+site_url: https://loganrem070.github.io/SatF
+theme:
+  name: material
